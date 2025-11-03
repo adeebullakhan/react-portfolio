@@ -7,7 +7,7 @@ import { blue, green, yellow } from "../../utils";
 import { Educations, Paragraph, SkillsWrapper, Text } from "./About.styled";
 import { AboutItem } from "./AboutItem";
 import Skills from "./SkillBall";
-import dyp from "../../assets/images/dyp.png";
+import jgi from "../../assets/images/jgi.png";
 import highschool from "../../assets/images/highschool.jpeg";
 import sos from "../../assets/images/sos.png";
 import { useInView } from "react-intersection-observer";
@@ -61,7 +61,7 @@ abilities and a focus on producing efficient, high-quality results.
               data={{
                 title: "Jain University, Bengaluru",
                 p: "Bachelors of Computer Engineering (2022-2026)",
-                image: dyp,
+                image: jgi,
               }}
             />
             <AboutItem
